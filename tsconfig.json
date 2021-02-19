@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    // 将默认的参照路径从项目根目录改为 ./src
+    "baseUrl": "./src",
     "target": "es5",
     "lib": [
       "dom",
